@@ -1,0 +1,25 @@
+# Java build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle
+.mvn/
+.gradle/
+build/
+
+# Others
+*.log
